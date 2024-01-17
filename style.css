@@ -1,0 +1,68 @@
+
+body {
+    
+    background-color: rgb(36, 36, 36);
+    margin: auto;
+    font-family: "Roboto";
+    width: 600px;
+    https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/css/fontawesome.min.css
+    
+}
+
+.post-header {
+    background-color: whitesmoke;
+    display: flex;
+    height: 50px;
+    width: auto;   
+}
+#imagenhtml {
+    padding: 10px;
+}
+
+#hypertext {
+    padding: 7px;
+}
+
+#trespuntos {
+    font-size: 20px;
+    padding: 17px;
+    padding-left: 460px;
+}
+
+.post-img {
+    background-color: whitesmoke;
+    height: auto;
+    width: auto;
+}
+
+.post-body {
+    background-color: whitesmoke;
+    }
+
+.post-icons {
+    background-color: whitesmoke;
+    display: flex;
+    font-size: 25px;
+    padding: 15px 10px;
+    }
+
+#boton1 {
+    padding-right: 10px;
+}
+
+#boton2 {
+    padding-right: 10px;
+}
+
+#boton3 {
+    padding-right: 10px;
+}
+#boton4 {
+margin-left: 440px;    
+}
+   
+p {
+    padding: 10px;
+}
+
+        
